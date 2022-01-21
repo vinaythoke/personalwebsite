@@ -1907,10 +1907,10 @@ button:not(.button):hover {
 	}
 button.mfp-close:before,
 button.mfp-arrow:before {
-	background: url(../images/bckg/mfp-default-skin.svg) 0 0 no-repeat; background-size: 264px 88px;
+	background: url(..https://vinaythoke.b-cdn.net/images/bckg/mfp-default-skin.svg) 0 0 no-repeat; background-size: 264px 88px;
 	}
 .mfp-ready.mfp-wrap {
-	cursor: url(../images/bckg/close.png) 20 20, crosshair;
+	cursor: url(..https://vinaythoke.b-cdn.net/images/bckg/close.png) 20 20, crosshair;
 	}
 img.mfp-img { 
 	user-select: none;
@@ -2564,7 +2564,7 @@ button.mfp-arrow-right:before {
     margin-bottom: 1em; opacity: .4;
     }
 .widget-title:after { 
-    display: block; width: 64px; height: 16px; content: ""; background-image: url(../images/bckg/lines.png); background-size: 40px 7px; background-repeat: no-repeat; margin-top: 13px;
+    display: block; width: 64px; height: 16px; content: ""; background-image: url(..https://vinaythoke.b-cdn.net/images/bckg/lines.png); background-size: 40px 7px; background-repeat: no-repeat; margin-top: 13px;
 	}
 .widget-area ul li { 
     font-size: .875em; 
